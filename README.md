@@ -5,6 +5,8 @@ and provides a shell to the container in the browser. The container has Docker a
 
 *Note*: The project is in active development.
 
+![Screenshot](https://raw.githubusercontent.com/ProductiveOps/learndocker/main/images/screenshot.gif)
+
 ## How to build and run
 
     docker build . -t productiveops/learndocker
